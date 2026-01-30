@@ -5,17 +5,17 @@ description = "A Python library to convert Japanese texts from Shinjitai to Kyuj
 authors = ["Emmanuel Ternon <emmanuel.ternon@outlook.com>"]
 license="MIT"
 readme = "README.md"
-homepage = "https://github.com/DrTurnon/kyujipy"
-repository = "https://github.com/DrTurnon/kyujipy"
+homepage = "https://github.com/cjkvsoft/kyujipy"
+repository = "https://github.com/cjkvsoft/kyujipy"
 include = [
     "LICENSE",
 ]
 
 [tool.poetry.dependencies]
 python = "^3.13"
-build = "^1.3.0"
+build = "^1.4.0"
 cson = "^0.8"
-twine = "^6.1.0"
+twine = "^6.2.0"
 
 [tool.poetry.group.dev.dependencies]
 nose = "^1.3.7"

@@ -2,11 +2,11 @@
 
 [![PyPI version](https://badge.fury.io/py/kyujipy.svg)](https://badge.fury.io/py/kyujipy)
 
-[kyujipy](https://github.com/DrTurnon/kyujipy) is a  Python library to convert Japanese texts from
+[kyujipy](https://github.com/cjkvsoft/kyujipy) is a  Python library to convert Japanese texts from
 [Shinjitai](https://en.wikipedia.org/wiki/Shinjitai) (新字体) to
 [Kyūjitai](https://en.wikipedia.org/wiki/Ky%C5%ABjitai), (舊字體) and vice versa.
 
-[kyujipy](https://github.com/DrTurnon/kyujipy) is based on the
+[kyujipy](https://github.com/cjkvsoft/kyujipy) is based on the
 [kyujitai.js](https://github.com/hakatashi/kyujitai.js) project, originally authored by
 [Koki Takahashi](https://github.com/hakatashi).
 
@@ -49,6 +49,6 @@ Convert a text from Kyūjitai (舊字體) to Shinjitai (新字体)
 
 ## License
 
-[kyujipy](https://github.com/DrTurnon/kyujipy) is licensed under the MIT license.
+[kyujipy](https://github.com/cjkvsoft/kyujipy) is licensed under the MIT license.
 
-© 2017-2025 [Emmanuel Ternon](https://github.com/DrTurnon)
+© 2017-2026 [Emmanuel Ternon](https://github.com/cjkvsoft)
